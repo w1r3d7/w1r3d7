@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td>Код проекта <a href="https://github.com/w1r3d7/701715-six-cities-5" target="_blank">Github.com</a></td>
-    <td>React, redux</td>
+    <td>React, Redux, Axios, Webpack</td>
   </tr>
   <tr>
     <td>Опубликованный проект <br><a href="http://six-cities.icehard.ru/" target="_blank">Six-cities</a></td>
@@ -27,11 +27,22 @@
   </tr>
   <tr>
     <td>Код проекта <a href="https://github.com/w1r3d7/701715-cinemaddict-12" target="_blank">Github.com</a></td>
-    <td>SPA c MVC на чистом JS</td>
+    <td>SPA MVP на чистом JS</td>
   </tr>
   <tr>
     <td>Опубликованный проект <a href="http://cinemaddict.icehard.ru/" target="_blank">Cinemaddict</a></td>
     <td>Сервис для фанатов большого кино. Подробная информация о горячих новинках кино, возможность выбрать и сформировать собственный список фильмов к просмотру, обсуждение кинофильмов и многое другое.</td>
+  </tr>
+  <tr>
+    <th colspan="2">Мишка</td>
+  </tr>
+  <tr>
+    <td>Код проекта <a href="https://github.com/w1r3d7/701715-mishka-16" target="_blank">Github.com</a></td>
+    <td>HTML, SASS, BEM, JS</td>
+  </tr>
+  <tr>
+    <td>Опубликованный проект <a href="http://mishka.icehard.ru/" target="_blank">Mishka</a></td>
+    <td>Интернет-магазина милых вешей ручной работы.</td>
   </tr>
   <tr>
     <th colspan="2">Израиль</td>
@@ -54,17 +65,6 @@
   <tr>
     <td>Опубликованный проект <a href="http://bicycle.icehard.ru/" target="_blank">Bicycle</a></td>
     <td>Посадочная страница интернет-магазина велосипедов.</td>
-  </tr>
-  <tr>
-    <th colspan="2">Мишка</td>
-  </tr>
-  <tr>
-    <td>Код проекта <a href="https://github.com/w1r3d7/701715-mishka-16" target="_blank">Github.com</a></td>
-    <td>HTML, SASS, BEM, JS</td>
-  </tr>
-  <tr>
-    <td>Опубликованный проект <a href="http://mishka.icehard.ru/" target="_blank">Mishka</a></td>
-    <td>Интернет-магазина милых вешей ручной работы.</td>
   </tr>
 </tbody>
 </table>
