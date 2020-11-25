@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td>Код проекта <a href="https://github.com/w1r3d7/701715-cinemaddict-12" target="_blank">Github.com</a></td>
-    <td>SPA MVP на чистом JS</td>
+    <td>SPA MVP на чистом JS, Fetch API, Webpack</td>
   </tr>
   <tr>
     <td>Опубликованный проект <a href="http://cinemaddict.icehard.ru/" target="_blank">Cinemaddict</a></td>
