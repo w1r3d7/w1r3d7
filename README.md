@@ -2,7 +2,7 @@
 
 Меня зовут Сергей и я хочу во Front-End.
 
-<a href="https://teleg.run/w1red" target="_blank"><img src="https://img.shields.io/badge/-telegram-blue"></a>
+<a href="https://t.me/w1red" target="_blank"><img src="https://img.shields.io/badge/-telegram-blue"></a>
 
 <table>
 <thead>
