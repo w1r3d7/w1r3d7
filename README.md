@@ -34,6 +34,17 @@
     <td>Сервис для фанатов большого кино. Подробная информация о горячих новинках кино, возможность выбрать и сформировать собственный список фильмов к просмотру, обсуждение кинофильмов и многое другое.</td>
   </tr>
   <tr>
+    <th colspan="2">Escape Room</td>
+  </tr>
+  <tr>
+    <td>Код проекта <a href="https://github.com/w1r3d7/escape-room" target="_blank">Github.com</a></td>
+    <td>HTML, SASS, BEM, JS</td>
+  </tr>
+  <tr>
+    <td>Опубликованный проект <a href="https://w1r3d7.github.io/escape-room/build/" target="_blank">Escape Room</a></td>
+    <td>Промо-магазин Escape Room, специализирующийся на игровых квестах.</td>
+  </tr>
+  <tr>
     <th colspan="2">Мишка</td>
   </tr>
   <tr>
@@ -54,17 +65,6 @@
   <tr>
     <td>Опубликованный проект <a href="http://israel.icehard.ru/" target="_blank">Israel</a></td>
     <td>Посадочная страница компании, которая возит студентов на стажировки в Израиль.</td>
-  </tr>
-  <tr>
-    <th colspan="2">Велосипеды</td>
-  </tr>
-  <tr>
-    <td>Код проекта <a href="https://github.com/w1r3d7/Bicycle" target="_blank">Github.com</a></td>
-    <td>HTML, SASS, BEM, JS</td>
-  </tr>
-  <tr>
-    <td>Опубликованный проект <a href="http://bicycle.icehard.ru/" target="_blank">Bicycle</a></td>
-    <td>Посадочная страница интернет-магазина велосипедов.</td>
   </tr>
 </tbody>
 </table>
