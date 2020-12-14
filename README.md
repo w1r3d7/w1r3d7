@@ -15,7 +15,7 @@
     <th colspan="2">Шесть городов</td>
   </tr>
   <tr>
-    <td>Код проекта <a href="https://github.com/w1r3d7/701715-six-cities-5" target="_blank">Github.com</a></td>
+    <td>Код проекта <a href="https://github.com/w1r3d7/six-cities" target="_blank">Github.com</a></td>
     <td>React, Redux, Axios, Webpack</td>
   </tr>
   <tr>
@@ -26,7 +26,7 @@
     <th colspan="2">Киноман</td>
   </tr>
   <tr>
-    <td>Код проекта <a href="https://github.com/w1r3d7/701715-cinemaddict-12" target="_blank">Github.com</a></td>
+    <td>Код проекта <a href="https://github.com/w1r3d7/cinemaddict" target="_blank">Github.com</a></td>
     <td>SPA MVP на чистом JS, Fetch API, Webpack</td>
   </tr>
   <tr>
@@ -48,7 +48,7 @@
     <th colspan="2">Мишка</td>
   </tr>
   <tr>
-    <td>Код проекта <a href="https://github.com/w1r3d7/701715-mishka-16" target="_blank">Github.com</a></td>
+    <td>Код проекта <a href="https://github.com/w1r3d7/mishka" target="_blank">Github.com</a></td>
     <td>HTML, SASS, BEM, JS</td>
   </tr>
   <tr>
