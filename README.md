@@ -41,6 +41,9 @@
     <td>HTML, SASS, BEM, JS</td>
   </tr>
   <tr>
+  <td colspan="2">На выполнение проекта ушло <b>35</b> часов. </td>
+  </tr>
+  <tr>
     <td>Опубликованный проект <a href="https://w1r3d7.github.io/escape-room/build/" target="_blank">Escape Room</a></td>
     <td>Промо-магазин Escape Room, специализирующийся на игровых квестах.</td>
   </tr>
@@ -61,6 +64,9 @@
   <tr>
     <td>Код проекта <a href="https://github.com/w1r3d7/Israel" target="_blank">Github.com</a></td>
     <td>HTML, SASS, BEM, JS</td>
+  </tr>
+  <tr>
+  <td colspan="2">На выполнение проекта ушло <b>44</b> часа. </td>
   </tr>
   <tr>
     <td>Опубликованный проект <a href="http://israel.icehard.ru/" target="_blank">Israel</a></td>
