@@ -59,7 +59,7 @@
     <th colspan="2">Escape Room (Верстка 35 часов)</td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://github.com/w1r3d7/escape-room"><img src="http://382967-ca07026.tmweb.ru/escape-room.jpg"></a></td>
+    <td colspan="2"><a href="https://w1r3d7.github.io/escape-room/build/"><img src="http://382967-ca07026.tmweb.ru/escape-room.jpg"></a></td>
   </tr>
   <tr>
     <td>Код проекта <a href="https://github.com/w1r3d7/escape-room" target="_blank">Github.com</a></td>
